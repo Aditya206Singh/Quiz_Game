@@ -1,4 +1,4 @@
-# Quize_Game
+# Quiz_Game
 ## Features
 #### 👉Presents each quiz question clearly with a visually appealing design, ensuring readability and user engagement.
 #### 👉Provides a set of multiple-choice answers for each question, allowing users to select their response with a simple click, enhancing user interaction.
